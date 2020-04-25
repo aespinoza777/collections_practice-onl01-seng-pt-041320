@@ -39,8 +39,7 @@ def find_a(array)
   array.each do |num|
     sum+=num
   end
-  sum
-end
+  
 
   def add_s(array)
   array.collect do |word|
