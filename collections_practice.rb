@@ -40,7 +40,7 @@ end
   array.each do |num|
     sum+=num
   end
-  array
+  num
 end
 
 
