@@ -40,6 +40,7 @@ def find_a(array)
     sum+=num
   end
   sum
+end
 
   def add_s(array)
   array.collect do |word|
